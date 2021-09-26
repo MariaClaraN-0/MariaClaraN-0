@@ -1,0 +1,34 @@
+body{
+    background-image:url("memes.jpg");
+   
+   
+}
+#nome,#situacao{
+    display:flex;
+    justify-content: center;
+    background-color: lightblue;
+    text-align: center
+    
+}
+
+button{
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+
+
+#imagem{
+    display: block;
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    height:30% ;
+    width: 30%;
+}
